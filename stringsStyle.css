@@ -1,0 +1,21 @@
+head{ 
+    font: ariel
+}
+body{
+    background-color: beige;
+    color: rgb(219, 109, 125)
+}
+nav{
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+footer{
+    text-align: center;
+    margin-right: 200px
+}
+header{
+    text-align: center;
+}
